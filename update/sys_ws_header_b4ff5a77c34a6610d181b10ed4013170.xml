@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_header">
+    <sys_ws_header action="INSERT_OR_UPDATE">
+        <example_value>fred.luddy@example.com</example_value>
+        <name>From</name>
+        <required>false</required>
+        <short_description>Email Adress of the user making the request</short_description>
+        <sys_class_name>sys_ws_header</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-17 10:12:47</sys_created_on>
+        <sys_id>b4ff5a77c34a6610d181b10ed4013170</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>From</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ws_header_b4ff5a77c34a6610d181b10ed4013170</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-17 10:12:47</sys_updated_on>
+        <web_service_definition display_value="Demo Services">9b479ebbc30a6610d181b10ed4013177</web_service_definition>
+    </sys_ws_header>
+</record_update>
